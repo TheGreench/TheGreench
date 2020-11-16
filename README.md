@@ -8,5 +8,6 @@ My Goals are to finsih learning JavaScript, and learn TypeScript to improve my s
 
 
 ## Stats!
-![TheGreench's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreench&theme=dracula)
 ![TheGreench's github stats](https://github-readme-stats.vercel.app/api?username=TheGreench&show_icons=true&count_private=true&theme=dracula)
+
+![TheGreench's Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=TheGreench&theme=dracula)
